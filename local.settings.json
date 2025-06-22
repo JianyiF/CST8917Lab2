@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "BLOB_STORAGE_ENDPOINT": "https://cst8917lab2storageacc.core.windows.net/",
+    "COGNITIVE_SERVICES_ENDPOINT": "https://cst8917lab2formreg.cognitiveservices.azure.com/",
+    "COGNITIVE_SERVICES_KEY": "6f9qBHv55iEqMsjE2ztzD66K42seXn9FeN8p6ayMT4NgKMTQLI6VJQQJ99BFACBsN54XJ3w3AAALACOGF2F4",
+    "AZURE_OPENAI_ENDPOINT": "https://fan00-mc2ibfx1-eastus2.openai.azure.com/",
+    "AZURE_OPENAI_KEY": "1LtTWKUexO6czu20yEefoEteNmkPnj0Y0jy4GJok7uBmFndmM2xBJQQJ99BFACHYHv6XJ3w3AAAAACOGWDMs",
+    "CHAT_MODEL_DEPLOYMENT_NAME": "gpt-4.1"
+  }
+}
